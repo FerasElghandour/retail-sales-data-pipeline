@@ -87,3 +87,7 @@ Run the focused offline behavior checks with `python smoke_test.py` after instal
 ## Limitations
 
 The fixture is synthetic. Brand-price differences and revenue patterns are properties of the generated example, not evidence about real retail performance or clients.
+
+## Reuse
+
+The original contributions listed in [LICENSING.md](LICENSING.md) are available under [MIT](LICENSE). This scoped grant preserves upstream notices and separate dataset, simulator, notebook and checkpoint terms.
