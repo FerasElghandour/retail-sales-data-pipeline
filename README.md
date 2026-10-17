@@ -8,6 +8,15 @@ Reusable type-cleaning and imputation functions, date and product-feature deriva
 
 ![Implementation mechanism: Raw retail fields → Coerce numeric and date types → Handle missing values → Derive price and hardware features → Inspect schema and transformation audit](assets/mechanism.svg)
 
+
+
+## Run the validated data pipeline
+
+The reusable pipeline now rejects missing schemas, all-null numerics, invalid dates, missing GPU values and invalid hardware denominators. The retained1,000-row generated input preserves all rows, adds six derived fields and leaves no missing numeric values.
+
+[Commands, artifacts and benchmark scope](BENCHMARKS.md) · [Versioned profiles](reproduction.json)
+
+
 ## Try a small example
 
 A small offline fixture exercises the public implementation. It demonstrates the behavior shown below; it does not replace the historical dataset, benchmark or production validation.

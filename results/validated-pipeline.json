@@ -1,0 +1,15 @@
+{
+  "input_sha256": "5e18032699f48eddb09aeeac2aa7b4a8125dcdfe9813a43cf085bf5e9710eb98",
+  "rows": 1000,
+  "rows_preserved": true,
+  "derived_columns": [
+    "sale_month",
+    "sale_quarter",
+    "day_of_week",
+    "has_dedicated_gpu",
+    "discount_amount",
+    "spec_score"
+  ],
+  "numeric_missing_after": 0,
+  "total_revenue": 4252789.02
+}
