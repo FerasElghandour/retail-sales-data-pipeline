@@ -1,0 +1,20 @@
+{
+  "slug": "retail-sales-data-pipeline",
+  "date": "2026-10-17",
+  "notebook_sha256": "bc06466ebea6944e6dd066f0f9d9172ebec121a012bf92b9615de5ded3cf8a74",
+  "code_cells": 11,
+  "numpy": "2.5.4",
+  "pandas": "3.0.6",
+  "torch": "2.14.1",
+  "sklearn": "1.9.1",
+  "inputs": {
+    "laptop_sales.csv": "5e18032699f48eddb09aeeac2aa7b4a8125dcdfe9813a43cf085bf5e9710eb98"
+  },
+  "metrics": {},
+  "plots": [
+    "figure-01.png",
+    "figure-02.png",
+    "figure-03.png"
+  ],
+  "status": "passed"
+}

@@ -1,0 +1,6 @@
+{
+  "smoke_test.py": "71517e8818f41c6990f5a5bc17fd35d74aa3ff0d903c40edd184e7bcdee928aa",
+  "notebook_units.py": "6e93284b846e5669b68a518e9ee7f69e2667204a9c5c8913f911468b48337c0f",
+  "analysis.ipynb": "bc06466ebea6944e6dd066f0f9d9172ebec121a012bf92b9615de5ded3cf8a74",
+  "scripts/validate_source.py": "dd66863143395c7a5d2c2b8bb026d25a91f01f54a017aae51cdb7fb4741be750"
+}
